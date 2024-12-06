@@ -1,0 +1,80 @@
+[
+{
+  "directory": "C:/Users/TrapNelkit/Desktop/ToDoList/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ToDoList.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\ToDoList.dir\\src\\Graph_lib\\Graph.cpp.obj -c C:\\Users\\TrapNelkit\\Desktop\\ToDoList\\src\\Graph_lib\\Graph.cpp",
+  "file": "C:/Users/TrapNelkit/Desktop/ToDoList/src/Graph_lib/Graph.cpp",
+  "output": "CMakeFiles/ToDoList.dir/src/Graph_lib/Graph.cpp.obj"
+},
+{
+  "directory": "C:/Users/TrapNelkit/Desktop/ToDoList/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ToDoList.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\ToDoList.dir\\src\\Graph_lib\\GUI.cpp.obj -c C:\\Users\\TrapNelkit\\Desktop\\ToDoList\\src\\Graph_lib\\GUI.cpp",
+  "file": "C:/Users/TrapNelkit/Desktop/ToDoList/src/Graph_lib/GUI.cpp",
+  "output": "CMakeFiles/ToDoList.dir/src/Graph_lib/GUI.cpp.obj"
+},
+{
+  "directory": "C:/Users/TrapNelkit/Desktop/ToDoList/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ToDoList.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\ToDoList.dir\\src\\Graph_lib\\Window.cpp.obj -c C:\\Users\\TrapNelkit\\Desktop\\ToDoList\\src\\Graph_lib\\Window.cpp",
+  "file": "C:/Users/TrapNelkit/Desktop/ToDoList/src/Graph_lib/Window.cpp",
+  "output": "CMakeFiles/ToDoList.dir/src/Graph_lib/Window.cpp.obj"
+},
+{
+  "directory": "C:/Users/TrapNelkit/Desktop/ToDoList/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ToDoList.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\ToDoList.dir\\src\\main\\MainWindow.cpp.obj -c C:\\Users\\TrapNelkit\\Desktop\\ToDoList\\src\\main\\MainWindow.cpp",
+  "file": "C:/Users/TrapNelkit/Desktop/ToDoList/src/main/MainWindow.cpp",
+  "output": "CMakeFiles/ToDoList.dir/src/main/MainWindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/TrapNelkit/Desktop/ToDoList/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ToDoList.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\ToDoList.dir\\src\\main\\year.cpp.obj -c C:\\Users\\TrapNelkit\\Desktop\\ToDoList\\src\\main\\year.cpp",
+  "file": "C:/Users/TrapNelkit/Desktop/ToDoList/src/main/year.cpp",
+  "output": "CMakeFiles/ToDoList.dir/src/main/year.cpp.obj"
+},
+{
+  "directory": "C:/Users/TrapNelkit/Desktop/ToDoList/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ToDoList.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\ToDoList.dir\\src\\main\\month.cpp.obj -c C:\\Users\\TrapNelkit\\Desktop\\ToDoList\\src\\main\\month.cpp",
+  "file": "C:/Users/TrapNelkit/Desktop/ToDoList/src/main/month.cpp",
+  "output": "CMakeFiles/ToDoList.dir/src/main/month.cpp.obj"
+},
+{
+  "directory": "C:/Users/TrapNelkit/Desktop/ToDoList/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ToDoList.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\ToDoList.dir\\src\\another_part\\ChangeTaskInfo.cpp.obj -c C:\\Users\\TrapNelkit\\Desktop\\ToDoList\\src\\another_part\\ChangeTaskInfo.cpp",
+  "file": "C:/Users/TrapNelkit/Desktop/ToDoList/src/another_part/ChangeTaskInfo.cpp",
+  "output": "CMakeFiles/ToDoList.dir/src/another_part/ChangeTaskInfo.cpp.obj"
+},
+{
+  "directory": "C:/Users/TrapNelkit/Desktop/ToDoList/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ToDoList.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\ToDoList.dir\\src\\another_part\\DayDraw.cpp.obj -c C:\\Users\\TrapNelkit\\Desktop\\ToDoList\\src\\another_part\\DayDraw.cpp",
+  "file": "C:/Users/TrapNelkit/Desktop/ToDoList/src/another_part/DayDraw.cpp",
+  "output": "CMakeFiles/ToDoList.dir/src/another_part/DayDraw.cpp.obj"
+},
+{
+  "directory": "C:/Users/TrapNelkit/Desktop/ToDoList/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ToDoList.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\ToDoList.dir\\src\\another_part\\DayLogic.cpp.obj -c C:\\Users\\TrapNelkit\\Desktop\\ToDoList\\src\\another_part\\DayLogic.cpp",
+  "file": "C:/Users/TrapNelkit/Desktop/ToDoList/src/another_part/DayLogic.cpp",
+  "output": "CMakeFiles/ToDoList.dir/src/another_part/DayLogic.cpp.obj"
+},
+{
+  "directory": "C:/Users/TrapNelkit/Desktop/ToDoList/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ToDoList.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\ToDoList.dir\\src\\another_part\\TaskWindow.cpp.obj -c C:\\Users\\TrapNelkit\\Desktop\\ToDoList\\src\\another_part\\TaskWindow.cpp",
+  "file": "C:/Users/TrapNelkit/Desktop/ToDoList/src/another_part/TaskWindow.cpp",
+  "output": "CMakeFiles/ToDoList.dir/src/another_part/TaskWindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/TrapNelkit/Desktop/ToDoList/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ToDoList.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\ToDoList.dir\\src\\new_another_part\\chrono.cpp.obj -c C:\\Users\\TrapNelkit\\Desktop\\ToDoList\\src\\new_another_part\\chrono.cpp",
+  "file": "C:/Users/TrapNelkit/Desktop/ToDoList/src/new_another_part/chrono.cpp",
+  "output": "CMakeFiles/ToDoList.dir/src/new_another_part/chrono.cpp.obj"
+},
+{
+  "directory": "C:/Users/TrapNelkit/Desktop/ToDoList/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ToDoList.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\ToDoList.dir\\src\\new_another_part\\task_manager2.cpp.obj -c C:\\Users\\TrapNelkit\\Desktop\\ToDoList\\src\\new_another_part\\task_manager2.cpp",
+  "file": "C:/Users/TrapNelkit/Desktop/ToDoList/src/new_another_part/task_manager2.cpp",
+  "output": "CMakeFiles/ToDoList.dir/src/new_another_part/task_manager2.cpp.obj"
+},
+{
+  "directory": "C:/Users/TrapNelkit/Desktop/ToDoList/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/ToDoList.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\ToDoList.dir\\src\\main\\main.cpp.obj -c C:\\Users\\TrapNelkit\\Desktop\\ToDoList\\src\\main\\main.cpp",
+  "file": "C:/Users/TrapNelkit/Desktop/ToDoList/src/main/main.cpp",
+  "output": "CMakeFiles/ToDoList.dir/src/main/main.cpp.obj"
+}
+]
